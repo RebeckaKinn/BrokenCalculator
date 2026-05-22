@@ -15,6 +15,16 @@ Do not trust the output.
 
 ---
 
+# How
+
+- Clone the repo, either through console, url or github desktop.
+- Open in your own code editor and test the code.
+- Screenshare, liveshare or collaborate with your team.
+- Work together, share what you find, make the team understand the code and structure.
+- Keep track of what you change in the codebase, it is at least 15 bugs to fix. 
+
+---
+
 # Tips
 
 - Test often
